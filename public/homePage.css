@@ -1,0 +1,99 @@
+.logIn {
+  height: 40px;
+  padding: 3px 0;
+  width: 100px;
+  background-color: #639CD9;
+  color: white;
+}
+
+.signUp {
+  height: 40px;
+  padding: 3px 0;
+  width: 100px;
+  background-color: #639CD9;
+  color: white;
+}
+
+.search {
+  display: flex;
+  width: 100%;
+}
+
+.searchBar {
+  width: 80%;
+}
+
+.searchButton {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  width: 10%;
+}
+
+.ul-item {
+  width: 100%;
+}
+
+.li-1 {
+  width: 70%;
+  margin-right: 2rem;
+}
+
+.li-2 {
+  width: 15%;
+}
+
+.li-3 {
+  width: 15%;
+}
+
+.brand {
+  margin-right: 3rem;
+}
+
+.nav-link {
+  color: white;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.category {
+  height: 45px;
+}
+
+.nav-link:hover {
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: white;
+  margin: 0;
+}
+
+
+
+.footer{
+  background-color: #232F3E;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
+.ways{
+  color: white;
+  text-align: center;
+}
+h3{
+  font-weight: bolder;
+}
+a{
+  font-weight: lighter;
+  display: block;
+}
+p{
+  font-weight: lighter;
+}
+.arrow{
+color: black;
+
+}
+.item-images{
+  object-fit:fill;
+    height: 400px;
+}
