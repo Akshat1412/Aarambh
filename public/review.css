@@ -1,0 +1,77 @@
+h1 {
+  text-align: center;
+  font-family: 'Zen Antique Soft', serif;
+}
+
+.hello {
+  font-family: 'Zen Antique Soft', serif;
+}
+
+.name {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2.5rem;
+}
+
+.fas {
+  color: orange;
+}
+
+button {
+  background-color: #D1E8E4;
+  border-style: none;
+}
+
+hr {
+  border-top-style: solid;
+  border-width: 3px;
+}
+
+.input-group-addon {
+  background-color: #eceeef;
+  width: 50px;
+  border-style: solid;
+  border-radius: 1rem;
+  border-color: #eceeef;
+  text-align: center;
+  padding-top: 25px;
+}
+
+#review {
+  border-style: solid;
+  border-radius: 1rem;
+  border-left: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.content {
+  background-color: #D1E8E4;
+  border-style: solid;
+  border-color: #D1E8E4;
+  border-radius: 1rem;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin: 10px auto;
+}
+
+.item-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.submit{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.rupees-icon{
+  color: black;
+}
+.product-price{
+  font-family: 'Roboto', sans-serif;
+  margin-left: 10px;
+}
+.submit-button{
+  margin-bottom: 65px;
+}

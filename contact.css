@@ -1,0 +1,42 @@
+.container {
+  margin-top: 100px;
+  height: 500px;
+  width: 500px;
+  background-color: #DDDDDD;
+  border-style: groove;
+  border-radius: 8px;
+  padding: 0;
+}
+
+
+.name {
+display: inline-block;
+  width: 100%;
+}
+
+.fName {
+    display: inline-block;
+  width: 49%;
+text-align: center;
+
+}
+
+.lName {
+
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+}
+.input{
+width: 90%;
+}
+.input-email{
+width: 97%;
+}
+.emailAddress{
+  padding-left: 2.5%;
+
+}
+.message{
+  padding-left: 2.5%;
+}
